@@ -1,6 +1,6 @@
 ---
 title: Understanding and Mastering Git Branches
-thumbnail: /images/git-branches-thumbnail.png
+thumbnail: /images/git-branches-thumbnail.png](https://raw.githubusercontent.com/anesu-rirwa/if-and-else-articles/refs/heads/main/images/1038.jpg)
 date: 2023-10-27
 category: Development
 author: Your Name
